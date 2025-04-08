@@ -7,7 +7,7 @@ The dataset for San Francisco is available in the dataset branch of the main rep
 Keep all the data files in the same folder as the other project files.
 
 **Compile the Project:**
-To compile the project, run the following command:
+To compile the project, run the following command:   
 	g++ -O3 -std=c++11 realtime_simulation.cpp Hungarian.cpp
 
 This will generate the a.out file.
@@ -43,6 +43,8 @@ To run the simulation, use the following command:
 	Cab Capacity: Maximum number of passengers in a cab.
 	
 	Optional: Start time and end time of the simulation.
+ 
+
 
 Example Command:
 ./a.out SF 1.2 dex 0.3 hun 4000 3 480 570
