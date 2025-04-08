@@ -1,10 +1,12 @@
-**Overview**
+**Overview:**
+
 This directory contains the dataset used for running the simulation in the Capstone Ride Sharing project. The dataset is specifically for San Francisco (SF) and is used to predict hotspots during different times of the day and help improve driver efficiency in the ride-sharing system. The data now includes gender-specific ride data and represents a smaller area of San Francisco for easier testing and simulation.
 
-**SF Dataset Details**
+**SF Dataset Details:**
+
 The San Francisco dataset used in the simulation includes historical ride data, and it now includes gender-based preferences (denoted as "M" for male and "F" for female) in the sf_output file. The dataset covers a compact region of San Francisco for ease of simulation.
 
-**Files Included**
+**Files Included:**
 
   sfIndex: Index file for the San Francisco dataset.
   
