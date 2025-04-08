@@ -16,7 +16,7 @@ Research and compare various ride-sharing algorithms to select the most effectiv
 
 Build the app using C++ for backend processing and integrate it with a user-friendly interface.
 
-Credit
+**Credit**
 This project is based on an existing open-source repository that provided a foundational simulation for ride-sharing systems. We have made significant modifications to the code, including adding features for real-time ride-matching, gender-based preferences, and more. You can find the original repository here:
 https://github.com/Ride-SHARE/SHARE.
 
